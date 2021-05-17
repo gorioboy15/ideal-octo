@@ -1,8 +1,0 @@
-client_id = 'GNZH3TPOR8TUEY4AGQWAACAHFJOOBUVZ'
-api_id = 'gorioboy15'
-api_pwd = 'tasH17@$'
-td_id = 'gorioboy15'
-td_pwd = 'gorLoR1707@$'
-old15_accnt = '426863663'
-main_accnt ='490292698'
-ira15_accnt = '426863867'
